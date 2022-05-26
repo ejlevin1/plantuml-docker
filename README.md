@@ -45,3 +45,4 @@ steps:
 - [x] Include Azure Devops sample tasks
 - [ ] Include more samples for PNG and SVG, and wildcard usage
 - [ ] List the benefits vs. PlantUML Server
+ 
